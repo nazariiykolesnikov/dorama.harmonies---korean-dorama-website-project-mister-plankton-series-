@@ -601,9 +601,11 @@ header {
     .download-links {
         grid-template-columns: repeat(3, 1fr);
     }
+    
     .download-links a {
-        font-size: .45rem; 
+        font-size: .4rem; 
     }
+    
     .copyright {
         margin-bottom: 4rem;
     }
