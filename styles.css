@@ -41,7 +41,7 @@ html::-webkit-scrollbar-thumb {
 
 .desctop {
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(7, 1fr);
     gap: 10px;
     margin-bottom: 2rem;
 }
